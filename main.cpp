@@ -235,18 +235,9 @@ int main(int argc, char *argv[])
 		}
 
 		pac.clear();
+		fechar_SDL(janela);
 	}
 
-
-
-
-
-
-		SDL_RenderPresent(render);
-
-		//pausar();
-
-		fechar_SDL(janela);
 		return EXIT_SUCCESS;
 	
 }
