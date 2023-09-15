@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(135,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(136,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(143,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(149,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,25): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,25): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,64): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,64): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,95): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,95): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,107): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(199,107): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\main.cpp(53): warning C4715: 'iniciar_SDL': nem todos os caminhos de controle retornam um valor
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  jogo_visual_novel.vcxproj -> C:\Users\ruanl\OneDrive\Desktop\git\Dvd\DvdProtetorTela\DvdProtetorTela\DvdProtetorTela\x64\Release\jogo_visual_novel.exe
